@@ -25,7 +25,7 @@
 - Redshift
 
 ## I'm Currently Improving At 🧠
-- Python Fundamentals
+- [Python Fundamentals](https://github.com/ericwagnergithub/100-days-of-python)
   
 ## I Want To Learn More About 🏫
 - Web Applications
