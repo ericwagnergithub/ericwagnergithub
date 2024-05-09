@@ -4,6 +4,8 @@
 - Based out of Tampa, Florida
 - Data Analyst [@pelotoncycle](https://www.onepeloton.com/)
 
+- ![](https://visitor-badge.laobi.icu/badge?page_id=ericwagnergithub.ericwagnergithub)
+
 ## My Skillsets Include 📊
 - Tableau Certified
 - Alteryx Certified
