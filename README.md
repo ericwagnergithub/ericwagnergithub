@@ -1,17 +1,32 @@
 # Hi there 👋 I'm Eric!
 
-## About Me
+## About Me 😁
+- Based out of Tampa, Florida
+- Data Analyst [@pelotoncycle](https://www.onepeloton.com/)
 
+## My Skillsets Include 📊
+- Tableau Certified
+- Alteryx Certified
+- Excel Guru
+- Looker
+- DBT
+- Redshift
 
-## I'm Improving At 🧠
+## I'm Currently Improving At 🧠
 - Python Fundamentals
   
-## I Want To Learn More About 
-- 
+## I Want To Learn More About 🏫
+- Web Applications
+- Web Design
+- AI/ML Applications
 
-## Where to find me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="10%"/>](https://www.linkedin.com/in/ecwagner/)
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="10%"/>](https://www.linkedin.com/in/ecwagner/)
+## I Love 💙
+- 3D Printing
+- Entrepreneurship
+
+## Where to find me 🗺
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ecwagner/)
+[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">](https://www.linkedin.com/in/ecwagner/)
 
 
 
