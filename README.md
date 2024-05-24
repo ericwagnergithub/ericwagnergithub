@@ -16,6 +16,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwagnergithub&theme=shadow_blue  )
 
+## Languages and Tools 💪
+
+### Languages:
+| Python |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+
+
 ## My Skillsets Include 📊
 - Tableau Certified
 - Alteryx Certified
