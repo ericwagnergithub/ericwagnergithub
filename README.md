@@ -20,18 +20,20 @@
 
 ### Languages:
 | Python |
-|----------|
+|--------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 
 ### Data Visualization:
 | Tableau Certified | Looker | Excel Guru |
-|----------|----------|----------|
+|-------------------|--------|------------|
+|  |  |  |
 
 
 ### Data Transformation:
 | Alteryx Certified | DBT |
-|----------|----------|
+|-------------------|-----|
+|  |  |
 
 
 ## I'm Currently Improving At 🧠
