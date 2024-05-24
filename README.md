@@ -25,11 +25,13 @@
 
 
 ### Data Visualization:
-| Tableau Certified | Looker | Excel Guru
+| Tableau Certified | Looker | Excel Guru |
+|----------|----------|----------|
 
 
 ### Data Transformation:
 | Alteryx Certified | DBT |
+|----------|----------|
 
 
 ## I'm Currently Improving At 🧠
